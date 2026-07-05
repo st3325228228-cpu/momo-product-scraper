@@ -107,10 +107,6 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## 線上展示
-
-線上展示網址整理中。
-
 ## 專案目的
 
 本專案用於練習及展示以下能力：
