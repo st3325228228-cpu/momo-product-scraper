@@ -1,5 +1,5 @@
 # MOMO Product Scraper 
-
+ 
 使用 Python、Streamlit、pandas 與 Plotly 建立的 MOMO 商品資料擷取及價格分析儀表板。
 
 使用者可以選擇預設商品類別或自行輸入搜尋關鍵字，系統會取得 MOMO 商品名稱與價格資料，進行價格統計、品牌辨識、價格區間分類、互動式資料視覺化及自選商品比較。
